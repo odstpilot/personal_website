@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Planet
+* source:	https://sketchfab.com/3d-models/low-poly-planet-6b41c1e704d44e0381e30747eb930dc1
+* author:	Javid Shaikh (https://sketchfab.com/javidkoh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Planet" (https://sketchfab.com/3d-models/low-poly-planet-6b41c1e704d44e0381e30747eb930dc1) by Javid Shaikh (https://sketchfab.com/javidkoh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
